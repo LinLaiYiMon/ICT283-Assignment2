@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1743527763 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\datacalculations.cpp
+	<iostream>
+	<cmath>
+	"BinarySearchTree.h"
+	"WeatherData.h"
+	"DataCalculations.h"
+
+1743501287 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\binarysearchtree.h
+
+1743501252 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\weatherdata.h
+	<iostream>
+	<string>
+	"Date.h"
+	"Time.h"
+
+1743367280 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\date.h
+	<iostream>
+	<string>
+
+1743527371 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\datacalculations.h
+	"BinarySearchTree.h"
+	"WeatherData.h"
+
+1743039506 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\date.cpp
+	"Date.h"
+
+1743527727 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\spcc.cpp
+	<iostream>
+	<cmath>
+	"sPCC.h"
+	"BinarySearchTree.h"
+	"WeatherData.h"
+
+1743521889 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\spcc.h
+	"BinarySearchTree.h"
+	"WeatherData.h"
+
+1743501252 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\weatherdata.cpp
+	"WeatherData.h"
+
+1743523525 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\loadrecords.cpp
+	<fstream>
+	<sstream>
+	<iostream>
+	"BinarySearchTree.h"
+	"LoadRecords.h"
+	"WeatherData.h"
+
+1743492135 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\loadrecords.h
+	"BinarySearchTree.h"
+	"WeatherData.h"
+	<string>
+
+1743582177 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"BinarySearchTree.h"
+	"Date.h"
+	"WeatherData.h"
+	"sPCC.h"
+	"LoadRecords.h"
+	"DataCalculations.h"
+
+1740120638 c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\time.h
+	<iostream>
+	<string>
+
+1740586385 source:c:\users\yimon\onedrive\documents\kaplan\ict 283a\codeblock\assignment2\time.cpp
+	"Time.h"
+
